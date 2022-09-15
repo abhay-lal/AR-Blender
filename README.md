@@ -18,4 +18,4 @@ sudo apt install blender
 * Added a Bot next to Vincet along with a Red Car.
 
 ## Demo:
-![Demo Image](https://github.com/abhay-lal/AR-BlenderImages/vincet'sLife.png)
+![Demo Image](https://github.com/abhay-lal/AR-Blender/blob/master/Images/vincet'sLife.png)
