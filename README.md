@@ -19,3 +19,6 @@ sudo apt install blender
 
 ## Demo:
 ![Demo Image](https://github.com/abhay-lal/AR-Blender/blob/master/Images/vincet'sLife.png)
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
