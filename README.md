@@ -11,7 +11,7 @@ sudo apt install blender
 * Run the Life.blender file
 
 
-## Novelty:
+## Description:
 * Added new vincet with green shirt and green shoes.
 * Added multiple trees on a landscape.
 * Created multiple houses and added next to trees.
